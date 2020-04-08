@@ -3,4 +3,4 @@ Firstly, we count the number of trending videos of different types at different 
 
 Poonam Suryavanshi 65   |
 Divesh Wankhede    69   |
-pratik Ziman       72   |
+pratik Ziman       72   
